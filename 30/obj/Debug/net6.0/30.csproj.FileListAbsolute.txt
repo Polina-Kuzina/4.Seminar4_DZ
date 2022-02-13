@@ -1,0 +1,15 @@
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\bin\Debug\net6.0\30.exe
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\bin\Debug\net6.0\30.deps.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\bin\Debug\net6.0\30.runtimeconfig.json
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\bin\Debug\net6.0\30.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\bin\Debug\net6.0\ref\30.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\bin\Debug\net6.0\30.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.csproj.AssemblyReference.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.AssemblyInfoInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.AssemblyInfo.cs
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.csproj.CoreCompileInputs.cache
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\ref\30.dll
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.pdb
+C:\Users\payli\OneDrive\Desktop\Обучение программирование\4. Знакомство с языками программирования\Seminar_DZ4 (26,28,30,32)\30\obj\Debug\net6.0\30.genruntimeconfig.cache
